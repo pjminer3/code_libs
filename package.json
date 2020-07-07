@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pjminer3/code_libs/issues"
   },
-  "homepage": "https://github.com/pjminer3/code_libs#readme"
+  "homepage": "https://github.com/pjminer3/code_libs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

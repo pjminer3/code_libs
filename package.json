@@ -1,0 +1,19 @@
+{
+  "name": "code_libs",
+  "version": "1.0.0",
+  "description": "like codenames but allows users to submit words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjminer3/code_libs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjminer3/code_libs/issues"
+  },
+  "homepage": "https://github.com/pjminer3/code_libs#readme"
+}

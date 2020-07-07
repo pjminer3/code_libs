@@ -3,7 +3,7 @@ const app = require("express")();
 const http = require("http").createServer(app);
 
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname + "/client/index.html"));
+  res.sendFile(path.join(__dirname + "/client/public/index.html"));
 });
 
 http.listen(3000, () => {
